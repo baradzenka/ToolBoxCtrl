@@ -1,0 +1,29 @@
+//
+// ToolBoxCtrl.RC2 - resources Microsoft Visual C++ does not edit directly
+//
+
+#ifdef APSTUDIO_INVOKED
+#error this file is not editable by Microsoft Visual C++
+#endif //APSTUDIO_INVOKED
+
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Image
+//
+
+ID_BMP_ARROW					BITMAP				"res/Arrow.bmp"
+ID_PNG_GROUP_IMAGES1			PNG					"res/GroupImages1.png"
+ID_PNG_GROUP_IMAGES2			PNG					"res/GroupImages2.png"
+ID_PNG_ITEM_IMAGES			PNG					"res/ItemImages.png"
+
+
+/////////////////////////////////////////////////////////////////////////////
+// Cursor
+//
+
+IDC_CUR_DRAG_ENABLE			CURSOR				"res/DragEnable.cur"
+IDC_CUR_DRAG_DISABLE			CURSOR				"res/DragDisable.cur"
+
+
+/////////////////////////////////////////////////////////////////////////////
