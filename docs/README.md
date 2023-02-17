@@ -64,5 +64,3 @@ Tree elements can be checked and/or disabled. You can do this at any time by cal
 The control requires a call to `ToolBoxCtrl::Update()` after changing its state, properties, or the number of groups and elements in it.
 
 Good luck! :-)
-
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?business=HTC7VHPDL6U54&item_name=Thank+you+for+your+donation.+This+will+help+me+develop+great+things+further.&currency_code=USD)
